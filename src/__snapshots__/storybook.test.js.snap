@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Example/Button Default 1`] = `
+<button
+  style={
+    Object {
+      "padding": "10px",
+    }
+  }
+>
+  Submit
+</button>
+`;
